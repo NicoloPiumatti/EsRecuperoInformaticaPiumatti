@@ -1,0 +1,8 @@
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\bin\Debug\Es1Console.exe.config
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\bin\Debug\Es1Console.exe
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\bin\Debug\Es1Console.pdb
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\obj\Debug\Es1Console.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\obj\Debug\Es1Console.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\obj\Debug\Es1Console.exe
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\obj\Debug\Es1Console.pdb
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es1Console\obj\Debug\Es1Console.exe.config

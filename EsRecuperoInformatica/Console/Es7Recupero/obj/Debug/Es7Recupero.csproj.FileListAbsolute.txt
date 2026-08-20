@@ -1,0 +1,7 @@
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\bin\Debug\Es7Recupero.exe.config
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\bin\Debug\Es7Recupero.exe
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\bin\Debug\Es7Recupero.pdb
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\obj\Debug\Es7Recupero.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\obj\Debug\Es7Recupero.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\obj\Debug\Es7Recupero.exe
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\Es7Recupero\obj\Debug\Es7Recupero.pdb

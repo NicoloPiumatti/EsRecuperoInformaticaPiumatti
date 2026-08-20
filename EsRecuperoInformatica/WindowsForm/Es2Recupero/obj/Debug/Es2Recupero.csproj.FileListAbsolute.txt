@@ -1,0 +1,11 @@
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.csproj.AssemblyReference.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.Form1.resources
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.Properties.Resources.resources
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.csproj.GenerateResource.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.csproj.CoreCompileInputs.cache
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\bin\Debug\Es2Recupero.exe.config
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\bin\Debug\Es2Recupero.exe
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\bin\Debug\Es2Recupero.pdb
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.exe
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.pdb
+C:\Users\nicol\OneDrive\Desktop\EsRecuperoInformatica\WindowsForm\Es2Recupero\obj\Debug\Es2Recupero.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36429.23 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Es3Recupero", "Es3Recupero.csproj", "{77A003B6-849E-49B8-8A35-82E76DF79203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A003B6-849E-49B8-8A35-82E76DF79203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A003B6-849E-49B8-8A35-82E76DF79203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A003B6-849E-49B8-8A35-82E76DF79203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A003B6-849E-49B8-8A35-82E76DF79203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F667FCE7-2FBF-4200-860E-3A47471267FC}
+	EndGlobalSection
+EndGlobal

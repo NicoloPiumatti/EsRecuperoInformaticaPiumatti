@@ -1,0 +1,3 @@
+Nome: a | Numero Toner: 1
+Nome: b | Numero Toner: 99
+Nome: c | Numero Toner: 44

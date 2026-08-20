@@ -1,0 +1,4 @@
+G01;Rossi;Juventus
+G02;Bianchi;Milan
+G03;Ferrari;Juventus
+G04;Esposito;Milan
